@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">xkcdMuzei</string>
+    <string name="source_name">XKCD</string>
+    <string name="source_description">You know xkcd, no?</string>
+</resources>
